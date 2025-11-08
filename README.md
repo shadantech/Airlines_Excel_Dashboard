@@ -63,11 +63,10 @@ All data sources were merged into a single table using **Power Query (VLOOKUP al
 | ----------------------------- | ------------------------------- |
 | ✈️ **Total Flights**          | Total flight records            |
 | 👥 **Total Passengers**       | Sum of transported passengers   |
-| 📊 **Load Factor %**          | Passenger capacity utilization  |
-| 🏢 **Top 10 Carriers**        | Based on passenger count        |
 | 🌍 **Top Routes**             | Based on flight frequency       |
-| 📅 **Weekend vs Weekday**     | Load Factor comparison          |
-| 📏 **Distance Group Flights** | Flight distribution by distance |
+| 🏢 **Total Seats**            | Based on passenger count        |
+| 📊 **Load Factor %**          | Passenger capacity utilization  |
+
 
 ---
 
