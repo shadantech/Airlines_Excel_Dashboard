@@ -22,9 +22,9 @@ The project analyzes airline performance metrics such as **Load Factor**, **Pass
 
 ## 🖥️ Dashboard Preview  
 ![HomePage Preview](HomePage.png)
-[LoadFactor Preview](LoadFactor.png)
-[CarrierPage Preview](CarrierPage.png)
-[RoutesPage Preview](RoutesPage.png)
+![LoadFactor Preview](LoadFactor.png)
+![CarrierPage Preview](CarrierPage.png)
+![RoutesPage Preview](RoutesPage.png)
 
 ---
 
