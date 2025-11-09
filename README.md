@@ -67,7 +67,6 @@ All data sources were merged into a single table using **Power Query (VLOOKUP al
 | 🏢 **Total Seats**            | Based on passenger count        |
 | 📊 **Load Factor %**          | Passenger capacity utilization  |
 
-
 ---
 
 ## 🖥️ Dashboard Features
